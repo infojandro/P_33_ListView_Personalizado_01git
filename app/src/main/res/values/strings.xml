@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">P_33_ListView_Personalizado_01</string>
+    <array name="opcion">
+        <item>Nougat(7.0)</item>
+        <item>Marshmallow(6.0)</item>
+        <item>Lollipop(5.0-5.1)</item>
+        <item>KitKat(4.4)</item>
+        <item>Jelly Bean(4.1-4.3)</item>
+    </array>
+    <array name="num_api">
+        <item>API 24</item>
+        <item>API 23</item>
+        <item>21-22</item>
+        <item>19-20</item>
+        <item>16-18</item>
+    </array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="descrip_image">icono</string>
+</resources>
